@@ -1,0 +1,17 @@
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Application.deps.json
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Application.runtimeconfig.json
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Application.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\ref\Noyan.Customers.Application.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Application.pdb
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Core.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\bin\Debug\net6.0\Noyan.Customers.Core.pdb
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.csproj.AssemblyReference.cache
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.AssemblyInfoInputs.cache
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.AssemblyInfo.cs
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.csproj.CoreCompileInputs.cache
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.csproj.CopyComplete
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\ref\Noyan.Customers.Application.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.pdb
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Application\obj\Debug\net6.0\Noyan.Customers.Application.genruntimeconfig.cache

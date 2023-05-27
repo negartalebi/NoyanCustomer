@@ -1,0 +1,11 @@
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\bin\Debug\net6.0\Noyan.Customers.Core.deps.json
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\bin\Debug\net6.0\Noyan.Customers.Core.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\bin\Debug\net6.0\ref\Noyan.Customers.Core.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\bin\Debug\net6.0\Noyan.Customers.Core.pdb
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.AssemblyInfoInputs.cache
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.AssemblyInfo.cs
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.csproj.CoreCompileInputs.cache
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\ref\Noyan.Customers.Core.dll
+D:\MyProject\Noyan\NoyanCustomer\Noyan.Customer.Core\obj\Debug\net6.0\Noyan.Customers.Core.pdb
